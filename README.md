@@ -1,4 +1,3 @@
-191a-gitintro
-=============
+# 191a-gitintro
 
-Intro to GitHub, Steven Melena
+Informatics 191A Spring 2014 introduction to git and GitHub assignment.
